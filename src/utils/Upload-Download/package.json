@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "upload_download",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node ./src/main.js",
+    "test": "mocha --recursive"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.3.2",
+    "axios": "^0.21.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "form-data": "^4.0.0"
+  }
+}
