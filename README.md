@@ -1,5 +1,5 @@
 # NodeJs_Catalogo
-Backend de Catalogo de Productos subscripcion y  Notificaciones via email y push
+
 
 
 backend de un Catalogo, en donde un usuario pueda consumir ese catalogo.Ademas el usuario deberia poder  suscribirse  para que lo notifiquen por email cada vez que se agrega o se quita un producto.
